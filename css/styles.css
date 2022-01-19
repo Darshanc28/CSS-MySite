@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+h1{
+    margin: 0;
+    font-family: 'Satisfy', cursive;
+}
+
+.pro{
+    font-weight: bolder;
+}
+
+.top-container{
+    background-color: #CFFFDC;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    background-color: #CCD1E4;
+
+}
+
+.bottom-container{
+    background-color: #D6E5FA;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
